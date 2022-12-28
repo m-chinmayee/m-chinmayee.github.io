@@ -13,8 +13,12 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
+# gem "jekyll", "~> 3.5"
 gem "github-pages"
 gem "minimal-mistakes-jekyll"
+gem "kramdown-parser-gfm"
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem "faraday-retry"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -27,3 +31,4 @@ gem "minimal-mistakes-jekyll"
 # Cf. https://jekyllrb.com/docs/plugins/installation/
 group :jekyll_plugins do
 end
+gem "webrick", "~> 1.7"
