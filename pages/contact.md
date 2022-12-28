@@ -7,7 +7,7 @@ classes: wide
 date: December 28, 2022
 ---
 
-Email: [mchinmayee@proton.me](mailto:mchinmayee@proton.me)
+Email: [mchinmayee-at-proton.me](mailto:mchinmayee@proton.me)
 
 <html>
 
