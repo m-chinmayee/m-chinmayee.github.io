@@ -1,0 +1,1 @@
+My first post with $$\LaTeX$$ symbol enabled.
