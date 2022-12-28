@@ -1,11 +1,10 @@
 ---
 layout: single
 permalink: /about/
-title: About Me
+title: About
 author_profile: true
-header:
 classes: wide
-date: December 28, 2022
+date: February 21, 2022
 ---
 
 
