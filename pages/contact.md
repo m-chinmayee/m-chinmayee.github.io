@@ -14,7 +14,7 @@ Email: [mchinmayee@proton.me](mailto:mchinmayee@proton.me)
 <head>
 	<style>
 		body {
-			margin: 100px;
+			/* margin: 100px; */
 		}
 
 		#textbox {
